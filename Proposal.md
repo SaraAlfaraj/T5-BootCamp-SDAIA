@@ -44,7 +44,7 @@ A key aspect of this study is …
     - Prep_Flow_Runtime
   - Consists of 582660 row، related to 184 Country Region in overall th world. Saudi Arabia has 166 cases.
   - Range of the dates: 22 Jan 2020 to 4 Sept 2020.
-- **The prediction model will benefits from the above datasets to **
+- **The prediction model will benefits from the above datasets to**
 
 ## Tools
 - Jupyter Notebooks-Python (`Pandans`, `Numpy` , `Matplotlip` ...)
