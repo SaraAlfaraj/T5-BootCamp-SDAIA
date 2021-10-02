@@ -9,9 +9,10 @@ X can play an important role in addressing the issue of …
 A key aspect of this study is …
 
 ## Questions
-هل تؤثر المواسم المختلفة - صيف شتاء اعياد 
-هل تختلف أعداد الحاللات في المدن الرئيسية والمدن الصغسرة
-هل المتوقع ان تكون العودة للمقاعد الدراسية امنه في ٣١ سبتمبر
+- Are the different seasons and events (summer, winter, holidays, Eids...) affect the number of COVID-19 cases?
+- Do the numbers of COVID-19 cases differ between big/main cities and small cities?
+- Is the COVID-19 cases indicators expected to rise again after returning back to school ( at 31 Oct 2021)?
+- What is the expected date of reaching zero cases?
 
 ## Data Description
 - **The main data in this study obtained from [KAPSARC data portal](https://datasource.kapsarc.org/explore/dataset/saudi-arabia-coronavirus-disease-covid-19-situation/export/?disjunctive.daily_cumulative&disjunctive.indicator&disjunctive.event&disjunctive.city_en&disjunctive.region_en), which gathered by [Ministr of Helth in Saudi Arabia](https://covid19.moh.gov.sa/).**
