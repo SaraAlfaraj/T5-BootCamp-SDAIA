@@ -1,18 +1,13 @@
 # Investigation of Saudi Arabia COVID-19 Cases (Oct 2019 - Oct 2021)
 ### By Sara Alfaraj | 3 Oct 2021
 
-Summary, brief overview of problem
-History 
-There is a growing body of literature that recognises the importance of …
-Xs are one of the most widely used groups of Y and have been extensively used for ….
-X can play an important role in addressing the issue of …
-A key aspect of this study is …
+A key aspect of this study is to investigate COVID-19 cases in Saudi Arabia, in order to predict the most common factors that lead to increase COVID-19 number of cases.  
 
 ## Questions
-- Are the different seasons and events (summer, winter, holidays, Eids...) affect the number of COVID-19 cases?
+- Are the different seasons and events (Summer, Winter, holidays, Eids...) affect the number of COVID-19 cases?
 - Do the numbers of COVID-19 cases differ between big/main cities and small cities?
-- Is the COVID-19 cases indicators expected to rise again after returning back to school ( at 31 Oct 2021)?
 - What is the expected date of reaching zero cases? 
+- Is the COVID-19 cases indicators expected to rise again after returning back to school ( at 31 Oct 2021)?
 
 ## Data Description
 - **The main data in this study obtained from [KAPSARC data portal](https://datasource.kapsarc.org/explore/dataset/saudi-arabia-coronavirus-disease-covid-19-situation/export/?disjunctive.daily_cumulative&disjunctive.indicator&disjunctive.event&disjunctive.city_en&disjunctive.region_en), which gathered by [Ministr of Helth in Saudi Arabia](https://covid19.moh.gov.sa/).**
@@ -45,7 +40,7 @@ A key aspect of this study is …
     - Prep_Flow_Runtime
   - Consists of 582660 row، related to 184 Country Region in overall th world. Saudi Arabia has 166 cases.
   - Range of the dates: 22 Jan 2020 to 4 Sept 2020.
-- **The prediction model will benefits from the above datasets to**
+- **The prediction model will benefits from the above datasets.**
 
 ## Tools
 - Jupyter Notebooks-Python (`Pandans`, `Numpy` , `Matplotlip` ...)
