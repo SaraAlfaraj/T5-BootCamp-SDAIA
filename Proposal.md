@@ -20,6 +20,7 @@ A key aspect of this study is to investigate COVID-19 cases in Saudi Arabia, in 
     - City
     - Region
     - Day
+
   - Consists of 428346 row، related to 207 cities in Saudi Arabia.
   - Unit of measure: Persons.
   - Range of the dates: 1 Oct 2019 to 1 Oct 2021.
