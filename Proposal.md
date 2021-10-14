@@ -10,7 +10,7 @@ A key aspect of this study is to investigate COVID-19 cases in Saudi Arabia, in 
 - Is the COVID-19 cases indicators expected to rise again after returning back to school ( at 31 Oct 2021)?
 
 ## Data Description 
-- **The main data in this study obtained from [KAPSARC data portal](https://datasource.kapsarc.org/explore/dataset/saudi-arabia-coronavirus-disease-covid-19-situation/export/?disjunctive.daily_cumulative&disjunctive.indicator&disjunctive.event&disjunctive.city_en&disjunctive.region_en), which gathered by [Ministr of Helth in Saudi Arabia](https://covid19.moh.gov.sa/).**
+- **The main data in this study obtained from The King Abdullah Petroleum Studies and Research Center [KAPSARC data portal](https://datasource.kapsarc.org/explore/dataset/saudi-arabia-coronavirus-disease-covid-19-situation/export/?disjunctive.daily_cumulative&disjunctive.indicator&disjunctive.event&disjunctive.city_en&disjunctive.region_en), which gathered by [Ministr of Helth in Saudi Arabia](https://covid19.moh.gov.sa/).**
   - Include these fetures:
     - Number of Cases (Daily / Cumulative)
     - Case Indicators (Active, Mortalities, Critical ...)
