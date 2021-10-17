@@ -1,4 +1,4 @@
-# Investigation of Saudi Arabia COVID-19 Cases (Oct 2020 - Oct 2021)
+# Investigation of Saudi Arabia COVID-19 Cases (Mar 2020 - Oct 2021)
 ### By Sara Alfaraj | 3 Oct 2021
 
 A key aspect of this study is to investigate COVID-19 cases in Saudi Arabia, in order to predict the most common factors that lead to increase COVID-19 number of cases.  
@@ -23,7 +23,7 @@ A key aspect of this study is to investigate COVID-19 cases in Saudi Arabia, in 
 
   - Consists of 428346 row، related to 207 cities in Saudi Arabia.
   - Unit of measure: Persons.
-  - Range of the dates: 1 Oct 2020 to 1 Oct 2021.
+  - Range of the dates: 1 Mar 2020 to 1 Oct 2021.
 
 - **The prediction model will benefits from the above datasets.**
 
