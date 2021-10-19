@@ -43,7 +43,7 @@ This project discusses the questions below:
 ## Tools
 - `Numpy` and `Pandas` for data manipulation
 - `sklearn` for modeling
-- `Matplotlib` and Seaborn for plotting
+- `Matplotlib` and `Seaborn` for plotting
 
 
 ## Communication
