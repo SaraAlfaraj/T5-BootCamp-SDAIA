@@ -32,7 +32,8 @@ This project discusses the questions below:
 *Feature Engineering*
 1. Converting categorical features to binary dummy variables
 2. Selecting subsets of categorical features 
-3. During EDA; DataType converting, feature adding.
+3. Standardize features by removing the mean and scaling to unit variance.
+4. During EDA; DataType converting, feature adding.
 
 
 *Models*
