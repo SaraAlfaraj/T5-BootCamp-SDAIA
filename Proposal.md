@@ -31,15 +31,13 @@ This project discusses the questions below:
 
 *Feature Engineering*
 1. Converting categorical features to binary dummy variables
-2.Selecting subsets of categorical features 
+2. Selecting subsets of categorical features 
 3. During EDA; DataType converting, feature adding.
 
 
 *Models*
-Logistic regression and random forest classifiers.
-
-*Model Evaluation and Selection*
-The training dataset records was split into 80% for train and 20% for test.
+- Logistic regression and random forest classifiers. 
+- The training dataset records was split into 80% for train and 20% for test.
 
 ## Tools
 - `Numpy` and `Pandas` for data manipulation
