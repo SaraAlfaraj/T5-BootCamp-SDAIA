@@ -40,6 +40,12 @@ This project discusses the questions below:
 - Logistic regression and random forest classifiers. 
 - The training dataset records was split into 80% for train and 20% for test.
 
+**Final Model Scores:** 
+   - Accuracy:
+   - F1:
+   - precision:
+   - recall:
+
 ## Tools
 - `Numpy` and `Pandas` for data manipulation
 - `sklearn` for modeling
