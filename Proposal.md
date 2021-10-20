@@ -13,13 +13,13 @@ A key aspect of this study is to investigate COVID-19 cases in Saudi Arabia, in 
 ## Data Description 
 - **The main data in this study obtained from The King Abdullah Petroleum Studies and Research Center [KAPSARC data portal](https://datasource.kapsarc.org/explore/dataset/saudi-arabia-coronavirus-disease-covid-19-situation/export/?disjunctive.daily_cumulative&disjunctive.indicator&disjunctive.event&disjunctive.city_en&disjunctive.region_en), which gathered by [Ministr of Helth in Saudi Arabia](https://covid19.moh.gov.sa/).**
     Include this fetures:
-     -   Daily / Cumulative        
-     -   Indicator             
-     -   Date               
-     -   Event                       
-     -   City                      
-     -   Region                      
-     -   Cases (person)  
+         -   Daily / Cumulative        
+         -   Indicator             
+         -   Date               
+         -   Event                       
+         -   City                      
+         -   Region                      
+         -   Cases (person)  
 
   - Consists of 428346 row، related to 207 cities in Saudi Arabia.
   - Unit of measure: Persons.
