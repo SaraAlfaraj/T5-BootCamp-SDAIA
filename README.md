@@ -4,5 +4,5 @@ The goal of this project was to investigate COVID-19 cases in Saudi Arabia. A ke
 
 This Repo cosists of:
 - [The project proposal](https://github.com/SaraAlfaraj/T5-BootCamp-SDAIA/blob/main/Proposal.md)
-- [The used dataset] The King Abdullah Petroleum Studies and Research Center. (https://github.com/SaraAlfaraj/T5-BootCamp-SDAIA/blob/main/dataset_covied19.csv)
+- [The used dataset from The King Abdullah Petroleum Studies and Research Center](https://github.com/SaraAlfaraj/T5-BootCamp-SDAIA/blob/main/dataset_covied19.csv)
 - [Code in .ipynb format](https://github.com/SaraAlfaraj/T5-BootCamp-SDAIA/blob/main/Date_investigation_COVIED19_SA.ipynb)
