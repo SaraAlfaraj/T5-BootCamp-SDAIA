@@ -12,7 +12,7 @@ A key aspect of this study is to investigate COVID-19 cases in Saudi Arabia, in 
 
 ## Data Description 
 - **The main data in this study obtained from The King Abdullah Petroleum Studies and Research Center [KAPSARC data portal](https://datasource.kapsarc.org/explore/dataset/saudi-arabia-coronavirus-disease-covid-19-situation/export/?disjunctive.daily_cumulative&disjunctive.indicator&disjunctive.event&disjunctive.city_en&disjunctive.region_en), which gathered by [Ministr of Helth in Saudi Arabia](https://covid19.moh.gov.sa/).**
-    Include this fetures:
+   - Include this fetures:
          -   Daily / Cumulative        
          -   Indicator             
          -   Date               
@@ -28,7 +28,7 @@ A key aspect of this study is to investigate COVID-19 cases in Saudi Arabia, in 
 - **The prediction model will benefits from the above datasets.**
 
 ## Tools
-- Jupyter Notebooks-Python (`Pandans`, `Numpy` , `Matplotlip` ...)
+- Jupyter Notebooks-Python (`Pandans`, `Numpy` , `Matplotlip` , `skelrarn` ...)
 
 ## MVP Goal
 The minimum viable product (MVP) of this project will introduce a comparative analysis of COVID-19 cases within referred period, and discover the initial pattern of the dataset.
